@@ -35,4 +35,4 @@ This Python script uses the **Azure Cognitive Services Computer Vision API** to 
 ## Notes
 
 - The script extracts the text from the image by using the Azure Computer Vision Read API.
--The script checks the operation status periodically and prints the recognized text once the operation is completed.
+-  The script checks the operation status periodically and prints the recognized text once the operation is completed.
