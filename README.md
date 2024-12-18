@@ -1,4 +1,4 @@
-# Azure-Cognitive-Services-Text-Recognition
+# Azure-Cognitive-Services-Handwritten-Text-Recognition
 
 ## Description
 
